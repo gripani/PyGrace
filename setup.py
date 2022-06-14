@@ -11,5 +11,4 @@ setup(
     author='Giorgio Ripani',
     author_email='g.ripani93@gmail.com',
     long_description=long_description,
-    long_description_content_type='text/markdown'
 )
